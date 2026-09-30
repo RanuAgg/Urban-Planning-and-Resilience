@@ -10,8 +10,8 @@ What's inside:
 → A real-world illustrative walkthrough, using San Francisco's Climate Action Plan and Hazards and Climate Resilience Plan
 → Where it's headed next — a portable application currently in development
 
-Built for city and regional planners, resilience and sustainability planners, hazard mitigation and infrastructure planners, agencies, consultants, and the community partners they serve.
+I believe, it will be specially useful for city and regional planners, resilience and sustainability planners, hazard mitigation and infrastructure planners, agencies, consultants, and the community partners they serve.
 
-I'd especially value your take on three questions: Is it useful in practice? Where could it encounter real-world obstacles? What would make it more workable? Comment or message me — Look forward to them.
+I'd especially value your take on three questions: Is it useful in practice? Where could it encounter real-world obstacles in implementation? What would make it more workable? Comment or message me — Look forward to them.
 
 #UrbanPlanning #ScenarioPlanning #ClimateResilience #AdaptivePlanning #UrbanResilience
