@@ -12,6 +12,6 @@ What's inside:
 
 I believe, it will be specially useful for city and regional planners, resilience and sustainability planners, hazard mitigation and infrastructure planners, agencies, consultants, and the community partners they serve.
 
-I would value your comments and feedback on LayScen's utility, challenges one might face for implementation and any suggestion for improvements. I eagerly await your comment or message me on LinkedIn and moving forward I will provide you with my email.
+I would value your comments and feedback on LayScen's utility, challenges one might face for implementation and any suggestions for improvements. I eagerly await your comment or message me on LinkedIn and moving forward I will provide you with my email.
 
 #UrbanPlanning #ScenarioPlanning #ClimateResilience #AdaptivePlanning #UrbanResilience
