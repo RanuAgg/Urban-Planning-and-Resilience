@@ -1,6 +1,8 @@
 # Planning Beyond Predictability
 "LayScen"-Layered Adaptive Scenario Planning, An Integrated Framework for Urban Resilience
 
+**📄 [Read / Download the White Paper (PDF)](https://raw.githubusercontent.com/RanuAgg/Urban-Planning-and-Resilience/ca3661d/Planning%20Beyond%20Predictability_LayScen.pdf)**
+
 The challenge isn't just uncertainty — it's the fragmentation in how we respond to it. 
 I am proposing "LayScen" (Layered Adaptive Scenario Planning) to address both. LayScen is a practitioner-oriented framework and methodology documented in this white paper
 
