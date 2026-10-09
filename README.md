@@ -16,6 +16,6 @@ What's inside:
 
 I believe, it will be specially useful for city and regional planners, resilience and sustainability planners, hazard mitigation and infrastructure planners, agencies, consultants, and the community partners they serve.
 
-I would value your perspective on LayScen's usefulness in your practice, the implementation challenges it might face, and what could make it more workable. A short questionnaire (link above) is open until October 31, 2026. Responses are anonymous unless you choose to share your contact details. You are always welcome to message me on LinkedIn: [Ranu Aggarwal, AICP](www.linkedin.com/in/ranuaggarwal). I will share my email going forward, should you so desire - message me.
+I would value your perspective on LayScen's usefulness in your practice, the implementation challenges it might face, and what could make it more workable. A short questionnaire (link above) is open until October 31, 2026. Responses are anonymous unless you choose to share your contact details. You are always welcome to message me on LinkedIn: [Ranu Aggarwal, AICP](www.linkedin.com/in/ranuaggarwal). 
 
 #UrbanPlanning #ScenarioPlanning #ClimateResilience #AdaptivePlanning #UrbanResilience
